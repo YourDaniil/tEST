@@ -2,21 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        int a = 10; int b = 15;
-        System.out.println(b + a);
-        System.out.println(b - a);
-        System.out.println(b * a);
-        System.out.println(b + b);
-        System.out.println(a + a);
-
-        System.out.println("hi");
-
-        System.out.println("Super Hi");
-
-        System.out.println("Master");
-        System.out.println("Super Hi");
-
-        System.out.println("Super D3");
-        System.out.println("T3");
+        System.out.println("D4");
     }
 }
