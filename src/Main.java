@@ -14,5 +14,9 @@ public class Main {
         System.out.println("Super Hi");
 
         System.out.println("Master");
+        System.out.println("Super Hi");
+
+        System.out.println("Super D3");
+        System.out.println("T3");
     }
 }
