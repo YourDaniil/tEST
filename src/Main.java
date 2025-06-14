@@ -8,5 +8,7 @@ public class Main {
         System.out.println(b * a);
         System.out.println(b + b);
         System.out.println(a + a);
+
+        System.out.println("Super Hi");
     }
 }
