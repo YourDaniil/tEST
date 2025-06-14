@@ -9,6 +9,8 @@ public class Main {
         System.out.println(b + b);
         System.out.println(a + a);
 
-        //подготовка для слияния D
+        System.out.println("hi");
+
+        System.out.println("Super Hi");
     }
 }
