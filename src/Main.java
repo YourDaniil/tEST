@@ -10,5 +10,7 @@ public class Main {
         System.out.println(a + a);
 
         System.out.println("hi");
+
+        System.out.println("Super Hi");
     }
 }
